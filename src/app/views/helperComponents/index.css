@@ -1,0 +1,108 @@
+.carousel .thumbs-wrapper {
+  display: none !important;
+}
+
+.carousel .control-dots {
+  display: none !important;
+}
+.carousel.carousel-slider {
+  width: 150px !important;
+}
+.carousel.carousel-slider .control-arrow {
+  top: 0;
+  color: #fff;
+  font-size: 26px;
+  bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+  height: 110px;
+}
+
+.css-a5rdam-MuiGrid-root > .MuiGrid-item {
+  padding-left: 0px !important;
+}
+
+.css-a5rdam-MuiGrid-root > .MuiGrid-item {
+  padding-top: 0px !important;
+}
+
+.cardHeaderNew {
+  font-size: 11px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.cardContent {
+  font-size: 10px;
+  font-weight: bold;
+  /* margin-top: 5px; */
+}
+.progressbar {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.td-class-br-r {
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+.td-br-r {
+  border-right: 1px solid #000;
+}
+.td-br-b {
+  border-bottom: 1px solid #000;
+}
+
+#_ABSTRACT_RENDERER_ID_3 {
+  width: 200px !important;
+}
+.dis-flex {
+  display: flex;
+}
+.wid-50-per {
+  width: 50%;
+}
+.leave-app-sec {
+  background-color: yellow;
+  width: 80px;
+  text-align: center;
+  border: 1px solid #000;
+}
+.comp-app-sec {
+  background-color: orange;
+  width: 80px;
+  text-align: center;
+  border: 1px solid #000;
+}
+.hover-stop__container {
+  background-color: #6d5bd4;
+  padding: 5px 0;
+  border-radius: 4px;
+  width: 100% !important;
+}
+
+.hover-stop__text {
+  font-size: 20px;
+  color: white;
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+  font-weight: 400;
+  user-select: none;
+  cursor: pointer !important;
+}
+.progressBar-div {
+  height: 150px;
+  width: 100%;
+}
+.nodata-chart {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  width: 100%;
+}
+.no-projecst {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
